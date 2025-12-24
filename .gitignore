@@ -18,6 +18,4 @@ utils/helpers.py
 utils/particle_system.py
 utils/sprite_loader.py
 
-# Assets & Data
-assets/
-data/
+uv.lock
