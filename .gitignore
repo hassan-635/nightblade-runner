@@ -5,6 +5,8 @@ __pycache__/
 .vscode/
 .idea/
 
+.gitignore
+
 # Source Files (Remove to track)
 main.py
 README.md
