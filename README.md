@@ -4,8 +4,6 @@
 
 A high-octane, endless 2D action game built with Python and Pygame. Experience visceral close-quarters combat where every pixel matters.
 
-![Banner](assets/images/header.png) *<!-- Add a banner image here later! -->*
-
 ## 🌟 New Features: The "Juice" Update 🌟
 
 We've overhauled the game to feel **AMAZING**:
